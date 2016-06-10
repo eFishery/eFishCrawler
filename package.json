@@ -4,7 +4,7 @@
   "description": "eFish crawler implementation",
   "main": "index.js",
   "scripts": {
-    "pre-commit": "npm test",
+    "precommit": "npm test",
     "test": "mocha test --timeout 120000 -gc"
   },
   "repository": {
