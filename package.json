@@ -4,7 +4,8 @@
   "description": "eFish crawler implementation",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "pre-commit": "npm test",
+    "test": "mocha test --timeout 120000 -gc"
   },
   "repository": {
     "type": "git",
@@ -21,13 +22,18 @@
   "homepage": "https://github.com/eFishery/eFishCrawler",
   "dependencies": {
     "bluebird": "^3.4.0",
+    "dotenv": "^2.0.0",
     "fs": "0.0.2",
     "lodash": "^4.13.1",
+    "mysql": "^2.11.1",
+    "node-cron": "^1.1.1",
     "oauth": "^0.9.14",
-    "sugar": "^1.4.1"
+    "sugar": "^1.4.1",
+    "throttle-exec": "^3.0.4"
   },
   "devDependencies": {
     "chai": "^3.5.0",
+    "husky": "^0.11.4",
     "mocha": "^2.5.3"
   }
 }
