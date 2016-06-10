@@ -1,0 +1,33 @@
+{
+  "name": "eFishCrawler",
+  "version": "0.1.0",
+  "description": "eFish crawler implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eFishery/eFishCrawler.git"
+  },
+  "keywords": [
+    "eFish"
+  ],
+  "author": "ans4175 <ans4175@gmail.com> (http://ans-4175.github.io/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eFishery/eFishCrawler/issues"
+  },
+  "homepage": "https://github.com/eFishery/eFishCrawler",
+  "dependencies": {
+    "bluebird": "^3.4.0",
+    "fs": "0.0.2",
+    "lodash": "^4.13.1",
+    "oauth": "^0.9.14",
+    "sugar": "^1.4.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  }
+}

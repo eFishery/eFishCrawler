@@ -1,0 +1,485 @@
+https://conversation.8villages.com/1.0/contents/articles
+{
+	"totalRecords":11,
+	"totalDisplay":10,
+	"data":[
+		{
+		    "type":"articles",
+		    "conversationId":"5758e153c1719b9c04b6615f",
+		    "communityId":"56e10d234902d1f61d8ec0d9",
+		    "state":"published",
+		    "userId":"56e237c44902d1f61d8ec758",
+		    "privacy":"public",
+		    "userProfile":{
+		        "msisdn":"",
+		        "email":"admin@efish.com",
+		        "fullName":"admin",
+		        "type":"admin",
+		        "privacy":"private",
+		        "moderation":{
+		            "status":"needModeration"
+		        },
+		        "accountId":"56e237c44902d1f61d8ec757",
+		        "points":0,
+		        "totalConversations":{
+		            "questions":-4,
+		            "responses":51,
+		            "forums":0,
+		            "articles":15,
+		            "quickbroadcast":0
+		        },
+		        "avatar":"https://account.8villages.com/uploads/images/3/1462254983_03ganabgldi.png",
+		        "location":null,
+		        "crops":null,
+		        "dateSubmitted":{
+		            "timestamp":1457665988,
+		            "iso":"2016-03-11T03:13:08.281Z"
+		        },
+		        "id":"56e237c44902d1f61d8ec758"
+		    },
+		    "userGroup":"*",
+		    "shortId":316,
+		    "title":"Pemijahan Ikan Lele secara Alami",
+		    "content":"<p style=\"text-align: justify;\">Salah satu strategi ekonomis dalam pembesaran ikan lele adalah dengan menyediakan sendiri benih untuk pembesaran. Tahap awal dari penyediaan benih adalah pemijahan yang meliputi pemilihan indukan siap kawin <strong>(Gambar 1)</strong> dan pemijahan indukan yang bisa dilakukan baik secara alami ataupun buatan. Kali ini, akan dibahas pemijahan secara alami dengan atau tanpa bantuan hormon.</p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/4f38dc32b92974279dc0edc953cbab34-medium.jpg\" width=\"333\" height=\"251\" style=\"width: 333px; height: 251px;\"></p><p style=\"text-align: center;\"><strong>Gambar 1. Pengeringan kolam induk dan pemilihan induk</strong></p><p style=\"text-align: justify;\"><strong>Pemilihan indukan siap kawin.</strong> Syarat indukan yang baik adalah berukuran sedang dengan kisaran bobot 1-4 kg dan umur kurang dari 5 tahun. Induk yang terlalu tua atau terlalu muda sebaiknya tidak digunakan karena memiliki produktivitas benih (jumlah telur dan kesintasan larva) yang rendah. Tidak boleh menggunakan indukan yang cacat tubuhnya, untuk menghindari penurunan sifat cacat pada benih yang dihasilkan. Beberapa ciri luar yang bisa diamati dalam pemilihan indukan yang siap untuk pemijahan adalah: induk betina memiliki perut yang buncit dengan bagian dasar perut tampak melebar ke samping-belakang, saat ditekan terasa lembek, alat kelaminnya membengkak <strong>(Gambar 2)</strong> dan berwarna kemerahan serta apabila perutnya sedikit ditekan ke arah lubang kelaminnya akan keluar sel telur yang matang siap dibuahi. Untuk induk jantan ciri yang bisa diamati adalah <i>papilla genitalia</i> (alat kelamin) yang besar dan panjang serta tampak berwarna merah-keunguan. Induk yang telah digunakan dalam pemijahan alami dapat digunakan berulang setelah 1.5-2 bulan berikutnya untuk betina dan 2-3 minggu kemudian untuk indukan jantan.<br></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/a3a687bfc947fbb84be445fb2aae8801-medium.jpg\" width=\"331\" height=\"244\" style=\"width: 331px; height: 244px;\"></p><p style=\"text-align: center;\"><strong>Gambar 2. Pengecekan pembengkakan kelamin induk</strong></p><p style=\"text-align: justify;\"><strong>Penyuntikan hormon</strong>. Ada kalanya kematangan sel gamet induk yang akan dipijahkan tidak terjadi pada waktu yang bersamaan, sehingga penyuntikan hormon dibutuhkan untuk merangsang proses pematangan tersebut yaitu menyeragamkan kematangan sel telur pada induk betina dan meningkatkan volume cairan sperma indukan jantan. Hal yang harus diperhatikan pada proses penyuntikan hormon adalah waktu penyuntikan dan dosis penyuntikan. Untuk dosis, diperkirakan berdasarkan bobot induk yang akan dipijahkan. Hormon yang umum digunakan untuk penyuntikan lele adalah ovaprim dengan dosis 0.2 mL/kg bobot induk betina dan 0.1 mL/kg bobot induk jantan. Pengenceran hormon bisa menggunakan akuades. Hormon disuntikkan menggunakan <i>syringe</i> (kapasitas 2-3 mL) secara intramuscular pada daging salah satu sisi pangkal sirip punggung. Dalam penyuntikan ini, kondisi indukan harus dibuat tenang dengan menutup bagian kepalanya (terutama mata) dengan handuk basah.</p><p style=\"text-align: justify;\"><span></span><strong>Pemijahan Secara alami. </strong>Pemijahan alami dapat dilakukan dengan atau tanpa penyuntikan hormon terlebih dahulu, tergantung kebutuhan dan kondisi kematangan induk. Kolam pemijahan disiapkan dengan cara dibersihkan, diisi dengan air bersih hingga ketinggian 30-50 cm, lalu dilengkapi dengan kakaban/lembaran ijuk/lembaran paranet sebagai media penempelan telur <strong>(Gambar 3)</strong>. Pasangan induk terpilih lalu ditempatkan di dalam kolam pemijahan dan dibiarkan memijah secara alami <strong>(Gambar 4)</strong>, biasanya terjadi pada pukul 9 malam hingga dini hari. Bagian atas kolam bisa ditutup dengan <i>paranet</i> atau <i>shading net <strong>(Gambar 5)</strong>. </i>Setelah pemijahan selesai, indukan harus dikembalikan ke kolam induk. Kakaban yang telah ditempeli telur bisa dibiarkan dalam kolam pemijahan hingga larva menetas <strong>(Gambar 6)</strong>.</p><p style=\"text-align: center;\" rel=\"text-align: center;\"><span></span><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/82f3fac3b34083aa2903a3462dcd6970-medium.jpg\" width=\"355\" height=\"266\" style=\"line-height: 1.6em; color: inherit; width: 355px; height: 266px;\"></p><p style=\"text-align: center;\"><strong>Gambar 3. Kakaban untuk penempelan telur</strong></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/c573df7b68306c81171054cb846f4a0c-medium.jpg\" width=\"357\" height=\"268\" style=\"width: 357px; height: 268px;\"></p><p style=\"text-align: center;\"><strong>Gambar 4. Indukan mulai berpasangan dalam kolam pemijahan</strong></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/807ccbfa0d1becb33f40351abb387a44-medium.jpg\" width=\"357\" height=\"268\" style=\"width: 357px; height: 268px;\"></p><p style=\"text-align: center;\"><strong>Gambar 5. <em>Shading net</em> untuk menutupi kolam pemijahan</strong></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/1cf4ed52fc117e887855f9e9f01e02a0-medium.jpg\" width=\"327\" height=\"245\" style=\"width: 327px; height: 245px;\"><br></p><p style=\"text-align: center;\"><strong>Gambar 6. Kakaban yang ditempeli telur</strong></p>",
+		    "summary":"Salah satu strategi ekonomis dalam pembesaran ikan lele adalah dengan menyediakan sendiri benih...",
+		    "attachment":"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/public/2016/5/4/d730a544b79f28c9582b91d549474593-mobile.jpg",
+		    "hasAttachment":true,
+		    "isPremium":false,
+		    "datePublished":{
+		        "timestamp":1465442643,
+		        "iso":"2016-06-09T03:24:03.057Z"
+		    },
+		    "startTime":null,
+		    "endTime":null,
+		    "tags":[
+		        "Pemijahan",
+		        "Lele",
+		        "Hormon",
+		        "Spawning"
+		    ],
+		    "coordinates":null,
+		    "members":{
+		        "userIds":[
+		            "56e237c44902d1f61d8ec758",
+		            "57396f68ae601d921ddc92b1"
+		        ],
+		        "data":[
+		            {
+		                "msisdn":"",
+		                "email":"admin@efish.com",
+		                "fullName":"admin",
+		                "type":"admin",
+		                "privacy":"private",
+		                "moderation":{
+		                    "status":"needModeration"
+		                },
+		                "accountId":"56e237c44902d1f61d8ec757",
+		                "points":0,
+		                "totalConversations":{
+		                    "questions":-4,
+		                    "responses":51,
+		                    "forums":0,
+		                    "articles":15,
+		                    "quickbroadcast":0
+		                },
+		                "avatar":"https://account.8villages.com/uploads/images/3/1462254983_03ganabgldi.png",
+		                "location":null,
+		                "crops":null,
+		                "dateSubmitted":{
+		                    "timestamp":1457665988,
+		                    "iso":"2016-03-11T03:13:08.281Z"
+		                },
+		                "id":"56e237c44902d1f61d8ec758"
+		            }
+		        ]
+		    },
+		    "totalMembers":2,
+		    "receivers":"",
+		    "receiverType":null,
+		    "isSMS":false,
+		    "conversationHead":true,
+		    "hasResponse":true,
+		    "totalResponses":1,
+		    "hasAds":false,
+		    "adsId":false,
+		    "paymentId":false,
+		    "payments":{
+		        "userIds":[
+		        ],
+		        "data":[
+		        ]
+		    },
+		    "reports":{
+		        "userIds":[
+		        ],
+		        "data":[
+		        ]
+		    },
+		    "totalReports":0,
+		    "totalViews":22,
+		    "totalImpressions":80,
+		    "totalBookmarks":0,
+		    "shares":{
+		        "userIds":[
+		        ],
+		        "data":[
+		        ]
+		    },
+		    "totalShares":0,
+		    "votes":{
+		        "userIds":[
+		            "57396f68ae601d921ddc92b1"
+		        ],
+		        "data":[
+		            {
+		                "userProfile":{
+		                    "msisdn":"62811315444",
+		                    "type":"users",
+		                    "privacy":"public",
+		                    "moderation":{
+		                        "status":"needModeration"
+		                    },
+		                    "accountId":"57396f68ae601d921ddc92b0",
+		                    "points":0,
+		                    "totalConversations":{
+		                        "questions":0,
+		                        "responses":0,
+		                        "forums":0,
+		                        "articles":0
+		                    },
+		                    "avatar":"http://web.8villages.com/images/default-avatar.png",
+		                    "fullName":"Chrisna Aditya",
+		                    "location":"Kabupaten Banyuwangi",
+		                    "crops":null,
+		                    "dateSubmitted":{
+		                        "timestamp":1463381864,
+		                        "iso":"2016-05-16T06:57:44.616Z"
+		                    },
+		                    "gender":"Laki-laki",
+		                    "birthDate":"20/05/1990",
+		                    "crop":"",
+		                    "state":"Jawa Timur",
+		                    "custom-storeLocation":"kabupatenbanyuwangi",
+		                    "subdistrict":"Banyuwangi",
+		                    "channel-group":"android",
+		                    "id":"57396f68ae601d921ddc92b1",
+		                    "communityProfile":{
+		                        "customerId":"5369bd85cae84d0e03246a7c",
+		                        "name":"efish",
+		                        "slug":"8villages-efish",
+		                        "description":" ",
+		                        "keyword":"efish",
+		                        "privacy":"public",
+		                        "moderation":{
+		                            "registration":true,
+		                            "questionAnswer":true
+		                        },
+		                        "currency":"",
+		                        "logo":"https://account.8villages.com/uploads/images/14/1457949087_o0y3in3ik9.png",
+		                        "id":"56e10d234902d1f61d8ec0d9"
+		                    }
+		                },
+		                "date":{
+		                    "timestamp":1465522104,
+		                    "iso":"2016-06-10T01:28:24.947Z"
+		                },
+		                "amount":1
+		            }
+		        ]
+		    },
+		    "totalVotes":1,
+		    "dateSubmitted":{
+		        "timestamp":1465442643,
+		        "iso":"2016-06-09T03:24:03.057Z"
+		    },
+		    "lastActivityTime":{
+		        "timestamp":1465522329,
+		        "iso":"2016-06-10T01:32:09.384Z"
+		    },
+		    "lastViewed":{
+		        "timestamp":1465526951,
+		        "iso":"2016-06-10T02:49:11.253Z"
+		    },
+		    "custom-profileProperties":"[]",
+		    "id":"5758e153c1719b9c04b6615f",
+		    "price":null,
+		    "lastUpdated":{
+		        "timestamp":1465448852,
+		        "iso":"2016-06-09T05:07:32.779Z"
+		    },
+		    "isMember":false,
+		    "isVoted":false,
+		    "isChat":false,
+		    "isPaid":false
+		}
+	],
+	"hasNext":true,
+	"__timestamp":1465529597311
+}
+https://conversation.8villages.com/1.0/content/5758e153c1719b9c04b6615f
+{
+  "type": "articles",
+  "conversationId": "5758e153c1719b9c04b6615f",
+  "communityId": "56e10d234902d1f61d8ec0d9",
+  "state": "published",
+  "userId": "56e237c44902d1f61d8ec758",
+  "privacy": "public",
+  "userProfile": {
+    "msisdn": "",
+    "email": "admin@efish.com",
+    "fullName": "admin",
+    "type": "admin",
+    "privacy": "private",
+    "moderation": {
+      "status": "needModeration"
+    },
+    "accountId": "56e237c44902d1f61d8ec757",
+    "points": 0,
+    "totalConversations": {
+      "questions": -4,
+      "responses": 51,
+      "forums": 0,
+      "articles": 15,
+      "quickbroadcast": 0
+    },
+    "avatar": "https://account.8villages.com/uploads/images/3/1462254983_03ganabgldi.png",
+    "location": null,
+    "crops": null,
+    "dateSubmitted": {
+      "timestamp": 1457665988,
+      "iso": "2016-03-11T03:13:08.281Z"
+    },
+    "id": "56e237c44902d1f61d8ec758"
+  },
+  "userGroup": "*",
+  "shortId": 316,
+  "title": "Pemijahan Ikan Lele secara Alami",
+  "content": "<p style=\"text-align: justify;\">Salah satu strategi ekonomis dalam pembesaran ikan lele adalah dengan menyediakan sendiri benih untuk pembesaran. Tahap awal dari penyediaan benih adalah pemijahan yang meliputi pemilihan indukan siap kawin <strong>(Gambar 1)</strong> dan pemijahan indukan yang bisa dilakukan baik secara alami ataupun buatan. Kali ini, akan dibahas pemijahan secara alami dengan atau tanpa bantuan hormon.</p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/4f38dc32b92974279dc0edc953cbab34-medium.jpg\" width=\"333\" height=\"251\" style=\"width: 333px; height: 251px;\"></p><p style=\"text-align: center;\"><strong>Gambar 1. Pengeringan kolam induk dan pemilihan induk</strong></p><p style=\"text-align: justify;\"><strong>Pemilihan indukan siap kawin.</strong> Syarat indukan yang baik adalah berukuran sedang dengan kisaran bobot 1-4 kg dan umur kurang dari 5 tahun. Induk yang terlalu tua atau terlalu muda sebaiknya tidak digunakan karena memiliki produktivitas benih (jumlah telur dan kesintasan larva) yang rendah. Tidak boleh menggunakan indukan yang cacat tubuhnya, untuk menghindari penurunan sifat cacat pada benih yang dihasilkan. Beberapa ciri luar yang bisa diamati dalam pemilihan indukan yang siap untuk pemijahan adalah: induk betina memiliki perut yang buncit dengan bagian dasar perut tampak melebar ke samping-belakang, saat ditekan terasa lembek, alat kelaminnya membengkak <strong>(Gambar 2)</strong> dan berwarna kemerahan serta apabila perutnya sedikit ditekan ke arah lubang kelaminnya akan keluar sel telur yang matang siap dibuahi. Untuk induk jantan ciri yang bisa diamati adalah <i>papilla genitalia</i> (alat kelamin) yang besar dan panjang serta tampak berwarna merah-keunguan. Induk yang telah digunakan dalam pemijahan alami dapat digunakan berulang setelah 1.5-2 bulan berikutnya untuk betina dan 2-3 minggu kemudian untuk indukan jantan.<br></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/a3a687bfc947fbb84be445fb2aae8801-medium.jpg\" width=\"331\" height=\"244\" style=\"width: 331px; height: 244px;\"></p><p style=\"text-align: center;\"><strong>Gambar 2. Pengecekan pembengkakan kelamin induk</strong></p><p style=\"text-align: justify;\"><strong>Penyuntikan hormon</strong>. Ada kalanya kematangan sel gamet induk yang akan dipijahkan tidak terjadi pada waktu yang bersamaan, sehingga penyuntikan hormon dibutuhkan untuk merangsang proses pematangan tersebut yaitu menyeragamkan kematangan sel telur pada induk betina dan meningkatkan volume cairan sperma indukan jantan. Hal yang harus diperhatikan pada proses penyuntikan hormon adalah waktu penyuntikan dan dosis penyuntikan. Untuk dosis, diperkirakan berdasarkan bobot induk yang akan dipijahkan. Hormon yang umum digunakan untuk penyuntikan lele adalah ovaprim dengan dosis 0.2 mL/kg bobot induk betina dan 0.1 mL/kg bobot induk jantan. Pengenceran hormon bisa menggunakan akuades. Hormon disuntikkan menggunakan <i>syringe</i> (kapasitas 2-3 mL) secara intramuscular pada daging salah satu sisi pangkal sirip punggung. Dalam penyuntikan ini, kondisi indukan harus dibuat tenang dengan menutup bagian kepalanya (terutama mata) dengan handuk basah.</p><p style=\"text-align: justify;\"><span></span><strong>Pemijahan Secara alami. </strong>Pemijahan alami dapat dilakukan dengan atau tanpa penyuntikan hormon terlebih dahulu, tergantung kebutuhan dan kondisi kematangan induk. Kolam pemijahan disiapkan dengan cara dibersihkan, diisi dengan air bersih hingga ketinggian 30-50 cm, lalu dilengkapi dengan kakaban/lembaran ijuk/lembaran paranet sebagai media penempelan telur <strong>(Gambar 3)</strong>. Pasangan induk terpilih lalu ditempatkan di dalam kolam pemijahan dan dibiarkan memijah secara alami <strong>(Gambar 4)</strong>, biasanya terjadi pada pukul 9 malam hingga dini hari. Bagian atas kolam bisa ditutup dengan <i>paranet</i> atau <i>shading net <strong>(Gambar 5)</strong>. </i>Setelah pemijahan selesai, indukan harus dikembalikan ke kolam induk. Kakaban yang telah ditempeli telur bisa dibiarkan dalam kolam pemijahan hingga larva menetas <strong>(Gambar 6)</strong>.</p><p style=\"text-align: center;\" rel=\"text-align: center;\"><span></span><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/82f3fac3b34083aa2903a3462dcd6970-medium.jpg\" width=\"355\" height=\"266\" style=\"line-height: 1.6em; color: inherit; width: 355px; height: 266px;\"></p><p style=\"text-align: center;\"><strong>Gambar 3. Kakaban untuk penempelan telur</strong></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/c573df7b68306c81171054cb846f4a0c-medium.jpg\" width=\"357\" height=\"268\" style=\"width: 357px; height: 268px;\"></p><p style=\"text-align: center;\"><strong>Gambar 4. Indukan mulai berpasangan dalam kolam pemijahan</strong></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/807ccbfa0d1becb33f40351abb387a44-medium.jpg\" width=\"357\" height=\"268\" style=\"width: 357px; height: 268px;\"></p><p style=\"text-align: center;\"><strong>Gambar 5. <em>Shading net</em> untuk menutupi kolam pemijahan</strong></p><p style=\"text-align: center;\"><img src=\"https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/efish/2016/5/4/1cf4ed52fc117e887855f9e9f01e02a0-medium.jpg\" width=\"327\" height=\"245\" style=\"width: 327px; height: 245px;\"><br></p><p style=\"text-align: center;\"><strong>Gambar 6. Kakaban yang ditempeli telur</strong></p>",
+  "summary": "Salah satu strategi ekonomis dalam pembesaran ikan lele adalah dengan menyediakan sendiri benih...",
+  "attachment": "https://s3-ap-southeast-1.amazonaws.com/8villages/uploads/public/2016/5/4/d730a544b79f28c9582b91d549474593-mobile.jpg",
+  "hasAttachment": true,
+  "isPremium": false,
+  "datePublished": {
+    "timestamp": 1465442643,
+    "iso": "2016-06-09T03:24:03.057Z"
+  },
+  "startTime": null,
+  "endTime": null,
+  "tags": [
+    "Pemijahan",
+    "Lele",
+    "Hormon",
+    "Spawning"
+  ],
+  "coordinates": null,
+  "members": {
+    "userIds": [
+      "56e237c44902d1f61d8ec758",
+      "57396f68ae601d921ddc92b1"
+    ],
+    "data": [
+      {
+        "msisdn": "",
+        "email": "admin@efish.com",
+        "fullName": "admin",
+        "type": "admin",
+        "privacy": "private",
+        "moderation": {
+          "status": "needModeration"
+        },
+        "accountId": "56e237c44902d1f61d8ec757",
+        "points": 0,
+        "totalConversations": {
+          "questions": -4,
+          "responses": 51,
+          "forums": 0,
+          "articles": 15,
+          "quickbroadcast": 0
+        },
+        "avatar": "https://account.8villages.com/uploads/images/3/1462254983_03ganabgldi.png",
+        "location": null,
+        "crops": null,
+        "dateSubmitted": {
+          "timestamp": 1457665988,
+          "iso": "2016-03-11T03:13:08.281Z"
+        },
+        "id": "56e237c44902d1f61d8ec758"
+      }
+    ]
+  },
+  "totalMembers": 2,
+  "receivers": "",
+  "receiverType": null,
+  "isSMS": false,
+  "conversationHead": true,
+  "hasResponse": true,
+  "totalResponses": 1,
+  "hasAds": false,
+  "adsId": false,
+  "paymentId": false,
+  "payments": {
+    "userIds": [
+      
+    ],
+    "data": [
+      
+    ]
+  },
+  "reports": {
+    "userIds": [
+      
+    ],
+    "data": [
+      
+    ]
+  },
+  "totalReports": 0,
+  "totalViews": 23,
+  "totalImpressions": 87,
+  "totalBookmarks": 0,
+  "shares": {
+    "userIds": [
+      
+    ],
+    "data": [
+      
+    ]
+  },
+  "totalShares": 0,
+  "votes": {
+    "userIds": [
+      "57396f68ae601d921ddc92b1"
+    ],
+    "data": [
+      {
+        "userProfile": {
+          "msisdn": "62811315444",
+          "type": "users",
+          "privacy": "public",
+          "moderation": {
+            "status": "needModeration"
+          },
+          "accountId": "57396f68ae601d921ddc92b0",
+          "points": 0,
+          "totalConversations": {
+            "questions": 0,
+            "responses": 0,
+            "forums": 0,
+            "articles": 0
+          },
+          "avatar": "http://web.8villages.com/images/default-avatar.png",
+          "fullName": "Chrisna Aditya",
+          "location": "Kabupaten Banyuwangi",
+          "crops": null,
+          "dateSubmitted": {
+            "timestamp": 1463381864,
+            "iso": "2016-05-16T06:57:44.616Z"
+          },
+          "gender": "Laki-laki",
+          "birthDate": "20/05/1990",
+          "crop": "",
+          "state": "Jawa Timur",
+          "custom-storeLocation": "kabupatenbanyuwangi",
+          "subdistrict": "Banyuwangi",
+          "channel-group": "android",
+          "id": "57396f68ae601d921ddc92b1",
+          "communityProfile": {
+            "customerId": "5369bd85cae84d0e03246a7c",
+            "name": "efish",
+            "slug": "8villages-efish",
+            "description": "        ",
+            "keyword": "efish",
+            "privacy": "public",
+            "moderation": {
+              "registration": true,
+              "questionAnswer": true
+            },
+            "currency": "",
+            "logo": "https://account.8villages.com/uploads/images/14/1457949087_o0y3in3ik9.png",
+            "id": "56e10d234902d1f61d8ec0d9"
+          }
+        },
+        "date": {
+          "timestamp": 1465522104,
+          "iso": "2016-06-10T01:28:24.947Z"
+        },
+        "amount": 1
+      }
+    ]
+  },
+  "totalVotes": 1,
+  "dateSubmitted": {
+    "timestamp": 1465442643,
+    "iso": "2016-06-09T03:24:03.057Z"
+  },
+  "lastActivityTime": {
+    "timestamp": 1465522329,
+    "iso": "2016-06-10T01:32:09.384Z"
+  },
+  "lastViewed": {
+    "timestamp": 1465532258,
+    "iso": "2016-06-10T04:17:38.570Z"
+  },
+  "custom-profileProperties": "[]",
+  "id": "5758e153c1719b9c04b6615f",
+  "price": "",
+  "lastUpdated": {
+    "timestamp": 1465448852,
+    "iso": "2016-06-09T05:07:32.779Z"
+  },
+  "isMember": false,
+  "isVoted": false,
+  "isChat": false,
+  "isPaid": false,
+  "responses": [
+    {
+      "id": "575a1899ed6d1fa65b61dfc5",
+      "content": "itu telurnya menetas kira2 berapa hari ya? kemudian setelah menetas sebaiknya benih2 lele nya diperlakukan seperti apa? (kondisi air, kolam, pemberian pakan, dll) terimakasih",
+      "hasAttachment": false,
+      "attachment": null,
+      "shortId": 320,
+      "userId": "57396f68ae601d921ddc92b1",
+      "userProfile": {
+        "msisdn": "62811315444",
+        "type": "users",
+        "privacy": "public",
+        "moderation": {
+          "status": "needModeration"
+        },
+        "accountId": "57396f68ae601d921ddc92b0",
+        "points": 0,
+        "totalConversations": {
+          "questions": 0,
+          "responses": 0,
+          "forums": 0,
+          "articles": 0
+        },
+        "avatar": "http://web.8villages.com/images/default-avatar.png",
+        "fullName": "Chrisna Aditya",
+        "location": "Kabupaten Banyuwangi",
+        "crops": null,
+        "dateSubmitted": {
+          "timestamp": 1463381864,
+          "iso": "2016-05-16T06:57:44.616Z"
+        },
+        "gender": "Laki-laki",
+        "birthDate": "20/05/1990",
+        "crop": "",
+        "state": "Jawa Timur",
+        "custom-storeLocation": "kabupatenbanyuwangi",
+        "subdistrict": "Banyuwangi",
+        "channel-group": "android",
+        "id": "57396f68ae601d921ddc92b1"
+      },
+      "dateSubmitted": {
+        "timestamp": 1465522329,
+        "iso": "2016-06-10T01:32:09.017Z"
+      },
+      "datePublished": {
+        "timestamp": 1465522329,
+        "iso": "2016-06-10T01:32:09.017Z"
+      }
+    }
+  ],
+  "__timestamp": 1465532293460
+}
