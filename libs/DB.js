@@ -16,8 +16,6 @@ var Config = {
 	}
 };
 
-console.log(Config.mysql);
-
 var Connection,connReady;
 var isInit = false;
 var throttleCount = Config.mysql.throttle_count;
