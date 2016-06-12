@@ -26,4 +26,9 @@ describe('Crawler eFish', function() {
 				done();
 			});
 	});
+	it('should be get contents');
+	it('should be get specific contents');
+	it('should be get specific contents with params filter');
+	it('should be get specific contents with params sorting');
+	it('should be get articles');
 })
