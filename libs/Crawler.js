@@ -7,6 +7,7 @@ var url_request_token = 'https://oauth.8villages.com/tokens/request-token';
 var url_access_token = 'https://accounts.8villages.com/authentication';
 var url_auth = 'https://accounts.8villages.com/authentication';
 var url_resource = 'https://conversation.8villages.com/1.0/contents/';
+var url_single_resource = 'https://conversation.8villages.com/1.0/content/';
 
 var extend = function (obj1,obj2) {
     var obj3 = {};
@@ -57,7 +58,7 @@ Engine.prototype.getAccessToken = function(identifier, password, callback){
 	});
 };
 
-Engine.prototype.getContent = function(objectType, paramFilter, paramSort, callback){
+Engine.prototype.getContents = function(objectType, paramFilter, paramSort, callback){
 	var that = this;
 	return new Promise(function(resolve, reject){
 		var url_to_get = (objectType) ? url_resource + objectType : url_resource;
@@ -79,22 +80,39 @@ Engine.prototype.getContent = function(objectType, paramFilter, paramSort, callb
 
 Engine.prototype.getArticles = function(paramFilter, paramSort, callback){
 	var that = this;
-	return that.getContent('articles', paramFilter, paramSort, callback);
+	return that.getContents('articles', paramFilter, paramSort, callback);
 };
 
 Engine.prototype.getQuestions = function(paramFilter, paramSort, callback){
 	var that = this;
-	return that.getContent('questions', paramFilter, paramSort, callback);
+	return that.getContents('questions', paramFilter, paramSort, callback);
 };
 
 Engine.prototype.getTips = function(paramFilter, paramSort, callback){
 	var that = this;
-	return that.getContent('tips', paramFilter, paramSort, callback);
+	return that.getContents('tips', paramFilter, paramSort, callback);
 };
 
 Engine.prototype.getForums = function(paramFilter, paramSort, callback){
 	var that = this;
-	return that.getContent('forums', paramFilter, paramSort, callback);
+	return that.getContents('forums', paramFilter, paramSort, callback);
+};
+
+Engine.prototype.getContentById = function(objectId, callback){
+	var that = this;
+	return new Promise(function(resolve, reject){
+		var url_to_get = url_single_resource + objectId; 
+		that.oauth.getProtectedResource(url_to_get, "GET", that.oauth_access_token, that.oauth_access_token_secret,  function (error, data, response) {
+			if(error) {
+				reject(error);
+		  		if (typeof callback === 'function') callback(error);
+			} else { 
+				var parsedData = JSON.parse(data);
+				resolve(parsedData)
+				if (typeof callback === 'function') callback(null, parsedData);
+			}
+		});
+	});
 };
 
 module.exports = Engine;

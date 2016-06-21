@@ -31,7 +31,7 @@ describe('Crawler eFish', function() {
 			});
 	});
 	it('should be get contents', function(done){
-		crawler.getContent()
+		crawler.getContents()
 			.then(function(contents){
 				expect(contents).to.be.an('object');
 				expect(contents).to.have.ownProperty('totalRecords');
@@ -174,7 +174,7 @@ it('should be get specific contents tips', function(done){
 		var param_filters = {
 			tags:"lele"
 		};
-		crawler.getContent(null,param_filters)
+		crawler.getContents(null,param_filters)
 			.then(function(contents){
 				expect(contents).to.be.an('object');
 				expect(contents).to.have.ownProperty('totalRecords');
@@ -209,7 +209,7 @@ it('should be get specific contents tips', function(done){
 		var param_sorts = {
 			dateSubmitted:"desc"
 		};
-		crawler.getContent(null,null,param_sorts)
+		crawler.getContents(null,null,param_sorts)
 			.then(function(contents){
 				expect(contents).to.be.an('object');
 				expect(contents).to.have.ownProperty('totalRecords');
@@ -230,6 +230,30 @@ it('should be get specific contents tips', function(done){
 					expect(contents.data[0]).to.have.ownProperty('summary');
 					expect(contents.data[0]).to.have.ownProperty('attachment');
 					expect(contents.data[0]).to.have.ownProperty('tags');
+				}
+				done();
+			})
+			.catch(function(err){
+				console.error(err);
+				done();
+			});
+	});
+
+	it('should be get content by id', function(done){
+		crawler.getContentById('5758e153c1719b9c04b6615f')
+			.then(function(contents){
+				//data
+				if (contents){
+					expect(contents).to.have.ownProperty('type');
+					expect(contents).to.have.ownProperty('conversationId');
+					expect(contents).to.have.ownProperty('state');
+					expect(contents).to.have.ownProperty('privacy');
+					expect(contents).to.have.ownProperty('privacy');
+					expect(contents).to.have.ownProperty('title');
+					expect(contents).to.have.ownProperty('content');
+					expect(contents).to.have.ownProperty('summary');
+					expect(contents).to.have.ownProperty('attachment');
+					expect(contents).to.have.ownProperty('tags');
 				}
 				done();
 			})
