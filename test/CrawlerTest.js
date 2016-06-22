@@ -6,10 +6,12 @@ var Crawler          = require("../libs/Crawler");
 
 describe('Crawler eFish', function() {
 	var crawler;
+
 	var consumer_key = process.env.CONSUMER_KEY;
 	var consumer_secret = process.env.CONSUMER_SECRET;
 	var consumer_identifier = process.env.CONSUMER_IDENTIFIER;
 	var consumer_password = process.env.CONSUMER_PASSWORD;
+	
 	it('should be generate engine', function(){
 		crawler = new Crawler(consumer_key, consumer_secret);
 		expect(crawler).to.be.an('object');

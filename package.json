@@ -23,13 +23,7 @@
   "dependencies": {
     "bluebird": "^3.4.0",
     "dotenv": "^2.0.0",
-    "fs": "0.0.2",
-    "lodash": "^4.13.1",
-    "mysql": "^2.11.1",
-    "node-cron": "^1.1.1",
-    "oauth": "^0.9.14",
-    "sugar": "^1.4.1",
-    "throttle-exec": "^3.0.4"
+    "oauth": "^0.9.14"
   },
   "devDependencies": {
     "chai": "^3.5.0",

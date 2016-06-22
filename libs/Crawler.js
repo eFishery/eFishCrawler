@@ -1,5 +1,4 @@
 var OAuth = require('oauth');
-var fs = require('fs');
 var Promise = require("bluebird");
 var qs = require('querystring');
 
