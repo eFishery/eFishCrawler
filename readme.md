@@ -1,6 +1,6 @@
 # eFish Crawler
 
-Ini merupakan engine crawler eFish untuk kepentingan dashboard blogs.
+This is crawler wrapper for eFish app. Anyone could use and join to develop
 
 ## Instalasi
 
